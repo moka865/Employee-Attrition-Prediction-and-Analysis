@@ -1,6 +1,5 @@
 # Employee Attrition Prediction and Analysis (EAPA)
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Employee+Attrition+Prediction+Analysis)  
 *Predict employee attrition risks and empower HR with actionable insights.*
 
 ---
